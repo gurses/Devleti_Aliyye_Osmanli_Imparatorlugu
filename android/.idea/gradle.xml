@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/assets_audio_player-3.0.3+3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/assets_audio_player_web-3.0.3+3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-0.9.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/share-2.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.3/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

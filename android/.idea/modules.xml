@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1718546414/android.assets_audio_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1718546414/android.assets_audio_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-92009945/android.assets_audio_player_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-92009945/android.assets_audio_player_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1057511853/android.facebook_audience_network.iml" filepath="$PROJECT_DIR$/.idea/modules/-1057511853/android.facebook_audience_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888342729/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/888342729/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/824673100/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/824673100/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-550086048/android.share.iml" filepath="$PROJECT_DIR$/.idea/modules/-550086048/android.share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1347474153/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1347474153/android.url_launcher.iml" />
+    </modules>
+  </component>
+</project>
